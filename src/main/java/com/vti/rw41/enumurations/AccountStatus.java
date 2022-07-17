@@ -1,2 +1,5 @@
-package com.vti.rw41.enumurations;public enum AccountStatus {
+package com.vti.rw41.enumurations;
+
+public enum AccountStatus {
+    active, inactive
 }
